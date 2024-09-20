@@ -15,7 +15,7 @@ TRAINER: 'POLYCORE'
 MODEL: 'POLYCORE'
 BACKBONE: 'VanillaDeepFPN'
 DATASET_NAME: <Add Dataset Name here>
-WEIGHTS: <Add POLYCO weights NAME here>
+WEIGHTS: <Add Dataset Name here>
 PREPROCESSING: 'AR'
 PRETRAINED: False
 RASTERIZE: True
