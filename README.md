@@ -90,6 +90,15 @@ To train on your own datasets, you will need to change some code. Here are some 
 ## Citing POLYCORE
 If you use POLYCORE in your research, please use the following BibTeX entry: 
 
-TBC
+```
+@article{bransby2024polycore,
+  title={POLYCORE: Polygon-based contour refinement for improved Intravascular Ultrasound Segmentation},
+  author={Bransby, Kit Mills and Bajaj, Retesh and Ramasamy, Anantharaman and {\c{C}}ap, Murat and Yap, Nathan and Slabaugh, Gregory and Bourantas, Christos and Zhang, Qianni},
+  journal={Computers in Biology and Medicine},
+  volume={182},
+  pages={109162},
+  year={2024},
+  publisher={Elsevier}}
+```
 
 
