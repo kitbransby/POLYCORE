@@ -4,7 +4,7 @@ From  [Kit Mills Bransby](https://kitbransby.github.io/) (QMUL), [Retesh Bajaj](
 
 This is the official implementation for the paper POLYCORE: Polygon-based contour refinement for improved Intravascular Ultrasound Segmentation published in Computers in Biology and Medicine (Sept, 2024).
 
-Paper PDF: Available shortly
+Paper PDF: [Available Here](https://www.sciencedirect.com/science/article/pii/S0010482524012472)
 
 ![](graphics/ARCHITECTURE.png)
 
